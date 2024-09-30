@@ -1,5 +1,9 @@
 ## Hi there 👋
-VideoFlix-Crew
+This is a Developer Akademie Group Work 
+For the Videoflix App Portfolio Example 🍿🍿🍿
+
+
+🧙 VideoFlix-Crew Developed by Lukas, Alex and Benjamin ;)
 <!--
 
 **Here are some ideas to get you started:**
